@@ -1,0 +1,8 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="ProQuest Automation Suite">
+    <test name="Google Search Test">
+        <classes>
+            <class name="com.tests.GoogleSearchTest"/>
+        </classes>
+    </test>
+</suite>
